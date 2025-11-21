@@ -4,7 +4,7 @@
 Sistema web desenvolvido para gerenciar os dados de uma concessionária, incluindo o cadastro de clientes, funcionários, marcas, modelos e vendas.
 O projeto foi construído utilizando PHP, MySQL e Bootstrap, rodando em ambiente local com XAMPP.
 
-##⚙️ Tecnologias Utilizadas
+⚙️ Tecnologias Utilizadas
 PHP — Lógica de programação e manipulação de dados
 MySQL — Banco de dados relacional
 HTML / CSS / JavaScript
