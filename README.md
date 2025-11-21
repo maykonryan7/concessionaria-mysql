@@ -10,12 +10,14 @@ MySQL — Banco de dados relacional
 HTML / CSS / JavaScript
 Bootstrap — Interface visual responsiva
 XAMPP — Servidor local (Apache + MySQL)
+
 🚀 Funcionalidades
 ✅ Cadastrar, listar, editar e excluir clientes
 ✅ Cadastrar, listar, editar e excluir funcionários
 ✅ Gerenciar marcas e modelos de veículos
 ✅ Registrar e consultar vendas
 ✅ Integração completa com banco de dados MySQL
+
 🧠 Conceitos Aplicados
 CRUD (Create, Read, Update, Delete)
 Conexão PHP → MySQL (mysqli)
