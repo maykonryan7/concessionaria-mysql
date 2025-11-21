@@ -1,0 +1,41 @@
+🚗 Sistema de Concessionária — CRUD em PHP e MySQL
+⚠️ Atenção: Este projeto ainda está em desenvolvimento!
+
+Sistema web desenvolvido para gerenciar os dados de uma concessionária, incluindo o cadastro de clientes, funcionários, marcas, modelos e vendas.
+O projeto foi construído utilizando PHP, MySQL e Bootstrap, rodando em ambiente local com XAMPP.
+
+⚙️ Tecnologias Utilizadas
+PHP — Lógica de programação e manipulação de dados
+MySQL — Banco de dados relacional
+HTML / CSS / JavaScript
+Bootstrap — Interface visual responsiva
+XAMPP — Servidor local (Apache + MySQL)
+🚀 Funcionalidades
+✅ Cadastrar, listar, editar e excluir clientes
+✅ Cadastrar, listar, editar e excluir funcionários
+✅ Gerenciar marcas e modelos de veículos
+✅ Registrar e consultar vendas
+✅ Integração completa com banco de dados MySQL
+🧠 Conceitos Aplicados
+CRUD (Create, Read, Update, Delete)
+Conexão PHP → MySQL (mysqli)
+Estrutura de páginas dinâmicas
+Organização modular de código (páginas de cadastro, edição e listagem)
+Uso de formulários HTML e métodos POST e GET
+💾 Como Rodar o Projeto
+Instale o XAMPP
+(Certifique-se de que o Apache e o MySQL estão ativos no painel de controle)
+
+Copie o projeto para o diretório do servidor local: C:\xampp\htdocs\projeto-concessionaria
+
+Abra o MySQL como administrador no XAMPP
+
+Crie o banco de dados com o mesmo nome definido no arquivo config.php:
+
+CREATE DATABASE concessionaria;
+USE concessionaria;
+****
+Importe o arquivo SQL do projeto dentro do banco criado.
+No terminal do XAMPP (clique em Shell no painel), digite:
+SOURCE C:/xampp/htdocs/projeto-concessionaria-main/banco.sql;
+Execute o projeto no navegador: http://localhost/projeto-concessionaria-main/index.ph
