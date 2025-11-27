@@ -1,4 +1,4 @@
-*🚗 Sistema de Concessionária — CRUD em PHP e MySQL*⚠️ Atenção: Este projeto ainda está em desenvolvimento!
+*🚗 Sistema de Concessionária — CRUD em PHP e MySQL*
 
 *Sistema web desenvolvido para gerenciar os dados de uma concessionária, incluindo o cadastro de clientes, funcionários, marcas, modelos e vendas.
 O projeto foi construído utilizando PHP, MySQL e Bootstrap, rodando em ambiente local com XAMPP.*
